@@ -1,0 +1,61 @@
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\App.xbf
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\BookListPage.xbf
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\LoadingPage.xbf
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\MemberLoanPage.xbf
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\MemberSearchPage.xbf
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\Library Manager.xr.xml
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\Library Manager.exe
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\Library Manager.pdb
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\resources.pri
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\AppxManifest.xml
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\Core\Library Manager.exe
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\Library Manager.build.appxrecipe
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\System.Runtime.dll
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\App.g.i.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\App.g.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\BookListPage.g.i.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\BookListPage.g.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\LoadingPage.g.i.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\LoadingPage.g.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\MemberLoanPage.g.i.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\MemberLoanPage.g.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\MemberSearchPage.g.i.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\MemberSearchPage.g.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\App.xaml
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\BookListPage.xaml
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\LoadingPage.xaml
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\MemberLoanPage.xaml
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\MemberSearchPage.xaml
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\App.xbf
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\BookListPage.xbf
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\LoadingPage.xbf
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\MemberLoanPage.xbf
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\MemberSearchPage.xbf
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\Library Manager.csproj.CopyComplete
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\Library Manager.exe
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\Library Manager.pdb
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\priconfig.xml
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\resources.resfiles
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\pri.resfiles
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\qualifiers.txt
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\mmrad\Desktop\UWP_Task-main\Library Manager\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
